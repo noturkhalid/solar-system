@@ -32,6 +32,21 @@
 	 font-size: 2 0px;
 	 font-weight: bold;
  }
+/* Mobile phones */
+@media (max-width: 600px) {
+
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    p {
+        font-size: 16px;
+	}
+	
  input[type="button"] {
 	 background-color: #FFD166;
 	 color: black;
